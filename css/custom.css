@@ -26,7 +26,7 @@ header {
 /* Sections
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .section {
-  padding: 8rem 0 7rem;
+  padding: 2rem 0 1rem;
   text-align: center;
 }
 .section-heading,
@@ -91,7 +91,7 @@ header {
     padding: 2rem 0 1rem;
   }
   .hero {
-    padding-bottom: 12rem;
+    padding-bottom: 2rem;
     text-align: left;
     height: 165px;
   }
@@ -127,7 +127,7 @@ header {
     padding: 2rem 0 1rem;
   }
   .hero {
-    padding: 16rem 0 14rem;
+    padding: 6rem 0 4rem;
   }
   .section-description {
     max-width: 60%;
@@ -144,7 +144,7 @@ header {
     max-height: 472px;
   }
   .categories {
-    padding: 15rem 0 8rem;
+    padding: 2rem 0 1rem;
   }
 }
 
@@ -154,7 +154,7 @@ header {
     padding: 2rem 0 1rem;
   }
   .hero {
-    padding: 22rem 0;
+    padding: 2rem 0;
   }
   .hero-heading {
     font-size: 3.0rem;
